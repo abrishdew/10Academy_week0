@@ -1,5 +1,7 @@
 ##########################
 # KEDRO PROJECT
+# ignore anonymized
+anonymized
 # ignore virtual environment
 my_env
 # ignore all local configuration
